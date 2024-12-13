@@ -1,4 +1,4 @@
-**Hiệu ứng hỗ trợ scale theo cấp độ người chơi**
+*Hiệu ứng hỗ trợ scale theo cấp độ người chơi*
 
 ### **1. Thiết Bị Gây Sát Thương**
 
@@ -18,7 +18,7 @@
     
     - **Thuốc uống tăng sát thương:** Tăng % sát thương gây ra trong thời gian ngắn.
     - **Kim chích adrenaline:** Tăng tốc độ tấn công và độ nhanh nhẹn trong một khoảng thời gian nhất định.
-    - **Soldier Serum:** Kết hợp cả tăng sát thương và tốc độ đánh, nhưng có tác dụng phụ nhẹ (như giảm khả năng phòng thủ tạm thời).
+    - **Soldier Serum:** Kết hợp cả tăng sát thương và tốc độ đánh, nhưng có tác dụng phụ nhẹ (như giảm khả năng phòng thủ tạm thời). **(Note: Suy nghĩ xem nên làm hay không?)**
 
 ---
 
