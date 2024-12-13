@@ -6,6 +6,7 @@
       {
         "id": "d0fbf8ac7454cf7a",
         "type": "tabs",
+        "dimension": 49.75247524752475,
         "children": [
           {
             "id": "d009ab6d8d37a3a4",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC.md",
+                "file": "Game VR SCi-fi, Adventure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NPC"
+              "title": "Game VR SCi-fi, Adventure"
             }
           }
         ]
@@ -26,6 +27,7 @@
       {
         "id": "072cf17affa9c1a1",
         "type": "tabs",
+        "dimension": 50.24752475247525,
         "children": [
           {
             "id": "598d77b93f4c331c",
@@ -33,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NPC.md",
+                "file": "Game VR SCi-fi, Adventure.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -61,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of NPC"
+              "title": "Graph of Game VR SCi-fi, Adventure"
             }
           }
         ]
@@ -204,34 +206,34 @@
   },
   "active": "d009ab6d8d37a3a4",
   "lastOpenFiles": [
+    "Boss.md",
+    "Game VR SCi-fi, Adventure.md",
+    "NPC.md",
+    "ItemProperties.md",
+    "Guns.md",
+    "Weapons.md",
+    "Universe.md",
+    "Spaceship.md",
+    "Quest.md",
+    "Monster.md",
+    "Gold.md",
+    "Equipments.md",
+    "Durability.md",
+    "Sword.md",
+    "Support Items.md",
+    "Plot.md",
+    "Player.md",
     "Kiếm.md",
     "Nhân vật.md",
-    "Game VR SCi-fi, Adventure.md",
     "Cốt truyện.md",
     "Công cụ hỗ trợ.md",
-    "Boss.md",
     "Súng.md",
-    "Quest.md",
-    "NPC.md",
     "Trang Bị.md",
     "Tàu không gian.md",
     "Vũ khí.md",
     "Vũ trụ.md",
-    "Độ Bền.md",
-    "Cấp Độ.md",
-    "Quái.md",
-    "Thuộc Tính.md",
-    "Vàng.md",
-    "Pasted image 20241208214144.png.md",
-    "Pasted image 20241208212142.png.md",
     "Untitled",
     "Untitled.canvas",
-    "Khiên.md",
-    "2024-12-04.md",
-    "kĩ năng.md",
-    "Nâng Cấp.md",
-    "Chuyển Nhượng.md",
-    "Untitled 1.canvas",
-    "Welcome.md"
+    "Untitled 1.canvas"
   ]
 }

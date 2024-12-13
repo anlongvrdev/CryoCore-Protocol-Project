@@ -1,7 +1,7 @@
-1. **Tay Phải**: [[Vũ khí]] (súng hoặc kiếm).
-2. **Tay Trái**: 4 ô để chứa các vật phẩm tiêu dùng (bình HP, bình Mana, [[Công cụ hỗ trợ]], v.v...).
+1. **Tay Phải**: [[Weapons]] (súng hoặc kiếm).
+2. **Tay Trái**: 4 ô để chứa các vật phẩm tiêu dùng (bình HP, bình Mana, [[Support Items]], v.v...).
 
-- **Hai loại vũ khí**: [[Súng]] và [[Kiếm]].
+- **Hai loại vũ khí**: [[Guns]] và [[Sword]].
     
 - **Yêu Cầu Trang Bị**: Mỗi trang bị yêu cầu một **Cấp Độ** nhất định để có thể sử dụng. Cấp độ càng cao, trang bị càng mạnh mẽ và có khả năng chống chịu tốt hơn.
     

@@ -4,7 +4,7 @@ Trong game RPG của bạn, quái vật được phân thành ba loại chính, 
 
 - **Quái Thường**:
     
-    - **Mục Đích**: Là nguồn tài nguyên chính, cung cấp các vật phẩm để sửa chữa vũ khí và đồ đạc, [[Vàng]], và kinh nghiệm cho người chơi.
+    - **Mục Đích**: Là nguồn tài nguyên chính, cung cấp các vật phẩm để sửa chữa vũ khí và đồ đạc, [[Gold]], và kinh nghiệm cho người chơi.
     - **Đặc Điểm**: Số lượng nhiều, dễ gặp, phù hợp để farm tài nguyên và kinh nghiệm.
 - **Quái Elite**:
     

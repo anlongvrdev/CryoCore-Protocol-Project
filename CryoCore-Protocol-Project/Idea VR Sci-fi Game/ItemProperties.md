@@ -1,11 +1,11 @@
-**[[Súng]]**
+**[[Guns]]**
 
 - **Accuracy**: Độ chính xác khi sử dụng súng hoặc cung, ảnh hưởng đến khả năng trúng đích.
 - **Rate of Fire**: Tốc độ bắn của vũ khí, cho biết số lượng viên đạn có thể bắn trong một khoảng thời gian.
 - **Upgrade Slots**: Các khe nâng cấp vũ khí, cho phép người chơi cải thiện các tính năng như giảm giật, tăng số lượng đạn trong băng, hoặc tăng sát thương.
 - **Ammo Capacity**: Số lượng đạn tối đa mà vũ khí có thể mang theo.
 
-**[[Kiếm]]**
+**[[Sword]]**
 
 - **Damage**: Mức độ sát thương mà vũ khí gây ra trong mỗi đòn tấn công.
 - **Durability**: Độ bền của vũ khí, khi sử dụng quá mức, vũ khí sẽ bị hỏng và không thể sử dụng được nữa.

@@ -1,6 +1,6 @@
-[[Cốt truyện]] 
+[[Plot]] 
 
-- Đánh [[Quái]] vật cày chay để nâng cấp [[Nhân vật]] và [[trang bị]]
-- Không gian mở, lấy bối cảnh thám hiểm [[Vũ trụ]] bằng [[Tàu không gian]]
+- Đánh [[Monster]] vật cày chay để nâng cấp [[Player]] và [[Equipments]]
+- Không gian mở, lấy bối cảnh thám hiểm [[Universe]] bằng [[Spaceship]]
 - Có mạch [[Quest]] chính, mạch mở
 
