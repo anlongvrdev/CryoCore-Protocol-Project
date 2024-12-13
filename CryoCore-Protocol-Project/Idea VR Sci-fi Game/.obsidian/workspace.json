@@ -6,7 +6,7 @@
       {
         "id": "d0fbf8ac7454cf7a",
         "type": "tabs",
-        "dimension": 49.75247524752475,
+        "dimension": 49.75247524752476,
         "children": [
           {
             "id": "d009ab6d8d37a3a4",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game VR SCi-fi, Adventure.md",
+                "file": "Gold.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Game VR SCi-fi, Adventure"
+              "title": "Gold"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "072cf17affa9c1a1",
         "type": "tabs",
-        "dimension": 50.24752475247525,
+        "dimension": 50.24752475247524,
         "children": [
           {
             "id": "598d77b93f4c331c",
@@ -35,14 +35,14 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Game VR SCi-fi, Adventure.md",
+                "file": "Gold.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 5,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": true,
+                  "localInterlinks": false,
                   "showTags": true,
                   "showAttachments": false,
                   "hideUnresolved": false,
@@ -58,12 +58,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 365,
-                  "scale": 0.7132754626224442,
+                  "scale": 1.0576385627888587,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Game VR SCi-fi, Adventure"
+              "title": "Graph of Gold"
             }
           }
         ]
@@ -206,23 +206,23 @@
   },
   "active": "d009ab6d8d37a3a4",
   "lastOpenFiles": [
-    "Boss.md",
     "Game VR SCi-fi, Adventure.md",
-    "NPC.md",
-    "ItemProperties.md",
     "Guns.md",
-    "Weapons.md",
-    "Universe.md",
-    "Spaceship.md",
-    "Quest.md",
-    "Monster.md",
     "Gold.md",
     "Equipments.md",
-    "Durability.md",
     "Sword.md",
     "Support Items.md",
+    "Durability.md",
+    "ItemProperties.md",
+    "Spaceship.md",
+    "Universe.md",
+    "Weapons.md",
     "Plot.md",
     "Player.md",
+    "Monster.md",
+    "Quest.md",
+    "NPC.md",
+    "Boss.md",
     "Kiếm.md",
     "Nhân vật.md",
     "Cốt truyện.md",
